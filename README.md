@@ -34,8 +34,7 @@ I leverage a modern, industry-standard toolset to transform complex problems int
 ### Connect & Collaborate
 
 <p align="left">
-<a href="https://linkedin.com/in/irakoze-olga" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" /></a>
-<a href="https://instagram.com/olga4.90" target="blank"><img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/irakoze-berwa-olga" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" /></a>
 <a href="mailto:irakozeolga490@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" /></a>
 </p>
 
